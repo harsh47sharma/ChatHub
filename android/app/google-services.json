@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061744935450",
+    "project_id": "chathub-43b76",
+    "storage_bucket": "chathub-43b76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061744935450:android:3cffbee6074dd555f487a3",
+        "android_client_info": {
+          "package_name": "com.apps.chathub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061744935450-m9gb70t6b8lb7rr4pu84fd2jjid2ecv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWAHUasWSNqgzu7D7Fb-6_irQDuI8cgrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061744935450-m9gb70t6b8lb7rr4pu84fd2jjid2ecv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
